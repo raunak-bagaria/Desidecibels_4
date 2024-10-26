@@ -1,1 +1,5 @@
-Team Desidecibels : Our ML model  offers real-time, bidirectional translation between Multiple Indian Dialects and Indian Sign Language (ISL) and hence effectively bridges the communication gap among people with speech and hearing impairments across the nationwide, irrespective of what language they speak.Though solutions for American Sign Language translation exist, our Machine Learning platform runs on a dataset exclusive to Indian sign language ,offers real-time, bidirectional translation between multiple Indian languages and Indian Sign Language (ISL), empowering seamless communication with great care taken to ensure context isn’t lost while communicating.
+We’ve developed an advanced Machine Learning model that provides real-time, bidirectional translation between English and Indian Sign Language (ISL), fostering inclusive communication for individuals with speech and hearing impairments across India. Unlike solutions tailored for American Sign Language, our model is built on a dataset exclusive to ISL, ensuring precise and context-aware translations.
+
+How it works:
+Speech to ISL: Record your voice, which is converted to text and then translated into an ISL video.
+ISL to Text: Capture real-time video in ISL, which is instantly converted into English text.
